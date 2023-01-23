@@ -302,3 +302,4 @@ order by Precio;
 
 -- KPI: Margen de Ganancia por producto superior a 20%
 -- @TODO
+
